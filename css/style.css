@@ -1,0 +1,21 @@
+body{
+    background-color: #101113;
+}
+header{
+    background: #1E1E1E;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+nav ul li a{
+    display: block;
+    padding: 15px 20px;
+    color: #fff;
+    text-decoration: none;
+    transition: background 0.3s;
+}
